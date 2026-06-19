@@ -1,0 +1,6 @@
+{
+  "name": "VentureMind AI",
+  "description": "An AI-powered innovation platform that transforms raw ideas into validated business opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
